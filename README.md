@@ -38,8 +38,7 @@
 
 ### 🔥 My Stats 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=solbs365&show_icons=true&theme=radical&hide_border=true&v=1" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=solbs365&layout=compact&theme=radical&hide_border=true&v=1" alt="languages graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=solbs365&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <picture>
